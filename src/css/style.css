@@ -1,0 +1,57 @@
+.homepage-heading{
+    margin-top: 2.5%;
+    font-size: 40px;
+    color: rgb(37, 152, 146);
+    margin-left: 25px;
+    text-align: center  ;
+}
+.news1-home{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1%;
+    margin-left: 25px;
+
+}
+.cards-div{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px 50px;
+    justify-content: center;
+}
+.technews-heading{
+    margin-top: 2.5%;
+    font-size: 40px;
+    color: rgb(37, 152, 146);
+    margin-left: 25px;
+    text-align: center  ;
+}
+.technews-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 5vh;
+}
+.iosnews-heading{
+    margin-top: 2.5%;
+    font-size: 40px;
+    color: rgb(37, 152, 146);
+    margin-left: 25px;
+    text-align: center  ; 
+}
+.iosnews-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 5vh;
+}
+.Nasanews-heading{
+    margin-top: 2.5%;
+    font-size: 40px;
+    color: rgb(37, 152, 146);
+    margin-left: 25px;
+    text-align: center  ;    
+}
+.nasanews-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 5vh;
+
+}
